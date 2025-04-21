@@ -1,4 +1,4 @@
-# Purple Studio Hair Salon
+# NICKS HAIR SPA
 
 Stream One Project: User-Centric Frontend Development - Code Institute
 
